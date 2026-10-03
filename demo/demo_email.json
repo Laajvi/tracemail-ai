@@ -1,0 +1,5 @@
+{
+  "sender": "PayPal Security <security@paypa1-secure-verify.com>",
+  "subject": "Action required: your account has been limited",
+  "body": "Dear customer,\n\nWe detected unusual activity on your PayPal account. Your account has been temporarily limited. To restore full access you must verify your identity within 24 hours or your funds will be frozen.\n\nVerify now: https://paypa1-secure-verify.com/login\n\nIf you need help call our support line: +1 (888) 555-0142.\n\nPayPal Security Team"
+}
